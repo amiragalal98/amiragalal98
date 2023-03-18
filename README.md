@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Amira Mohamed Galal</h1>
 <h3 align="center">Software Engineer Developer From Egypt</h3>
 
@@ -27,7 +25,7 @@
 <p align="left">
 <a href="https://dev.to/not have" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="not have" height="30" width="40" /></a>
 <a href="https://twitter.com/amg18amira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amg18amira" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/amira-mohamed-galal-5446b7183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amira-mohamed-galal-5446b7183" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amira-mohamed-galal-5446b7183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amira-mohamed-galal-5446b7183" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
